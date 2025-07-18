@@ -6,9 +6,9 @@ Conocimientos tecnicos los cuales hablan de la tecnologia inverter, el tipo de d
 - [Canal Inverter Elkin Fernandez](http://www.youtube.com/@elkinkon)
 - [Canal Inverter Roberto Messias](http://www.youtube.com/@RobertoMessiasLATAM)
 ### Folletos
-1. [Folleto 1 - Conociendo el aire acondicionado inverter](Conociendo-el-aire-inverter.pdf)
+-  [Folleto 1 - Conociendo el aire acondicionado inverter](Conociendo-el-aire-inverter.pdf)
 
-4. [Folleto 4 - Como crear tu propio probador inverter](Aprendiendo-tecnologia-inverter.pdf)
+- [Folleto 4 - Como crear tu propio probador inverter](Aprendiendo-tecnologia-inverter.pdf)
 ### Videos
 #### Herramientas e implementos de testeo
 - [Video 1: Probador de fases](https://www.youtube.com/watch?v=ebA_f-2gdBg&ab_channel=ElkinFernandez)

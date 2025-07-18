@@ -16,7 +16,9 @@ Conocimientos tecnicos los cuales hablan de la tecnologia inverter, el tipo de d
 
 # Clases
 ## Clase Nº1
+- [Video clase 1](https://www.youtube.com/watch?v=nk_QttDn1os)
 ## Clase Nº2
+- [Video clase 2](https://www.youtube.com/watch?v=aJamwN11Yjs)
 ## Clase Nº3
 ### Principales errores de una placa inverter 
 

@@ -3,7 +3,11 @@ Conocimientos tecnicos los cuales hablan de la tecnologia inverter, el tipo de d
 
 ## Fuente de Conocimiento 
 ### Folletos
+
+1. [Folleto 1 - Introducción a la tecnología inverter](folletos/folleto1.pdf)
+2. [Folleto 2 - Diagnóstico de fallas](folletos/folleto2.pdf)
 ### Videos
+#### Herramientas e implementos de testeo
 
 # Clases
 ## Clase Nº1
@@ -16,7 +20,7 @@ Las unidades siempre están constantemente enviándose información entre si usa
 
 ### Errores 
 
-1. Error de comunicaciòn serial entre las 2 unidades: es causado en primer lugar por una enmienda en el cable S o serial debido a un empalme en el cable, esa tensiòn al recorrer por el cable hay cierta caida de tensión esto provoca que las unidades al enviar y recicbir pulsos no se comunicaran correctamente
+1. Error de comunicación serial entre las 2 unidades: es causado en primer lugar por una enmienda en el cable S o serial debido a un empalme en el cable, esa tensión al recorrer por el cable hay cierta caida de tensión esto provoca que las unidades al enviar y recicbir pulsos no se comunicaran correctamente
 
 2. SLN comunicación en las unidades 
 

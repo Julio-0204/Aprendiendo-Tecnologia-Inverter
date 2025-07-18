@@ -2,6 +2,9 @@
 Conocimientos tecnicos los cuales hablan de la tecnologia inverter, el tipo de dispositivos que las usan y aprender a corregir placas madres de dicha tecnologia 
 
 ## Fuente de Conocimiento 
+### Canales de personas que son fuente de conocimiento 
+- [Canal Inverter Elkin Fernandez](http://www.youtube.com/@elkinkon)
+- [Canal Inverter Roberto Messias](http://www.youtube.com/@RobertoMessiasLATAM)
 ### Folletos
 1. [Folleto 1 - Conociendo el aire acondicionado inverter](Conociendo-el-aire-inverter.pdf)
 2. [Folleto 2 - Aprendiendo tecnología inverter](Aprendiendo-tecnologia-inverter.pdf)

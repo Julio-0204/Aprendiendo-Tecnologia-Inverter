@@ -32,8 +32,9 @@ Las unidades siempre están constantemente enviándose información entre si usa
 
 
 
+- [Video Clase 3](https://www.youtube.com/watch?v=l2PV4MZpK7o)
 
-
- 
 
 ## Clase Nº4
+
+- [Video Clase 4](https://www.youtube.com/watch?v=fWJPoZlrtVE)
